@@ -4,7 +4,6 @@ html {
   font-family: "PT Sans", sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  font-size: 1.125rem;
   color: #222;
 }
 
@@ -18,6 +17,7 @@ img {
 
 h1, h2 {
   color: #3f1622;
+  font-size: 1.5rem;
 }
 
 blockquote {
@@ -58,7 +58,7 @@ dt {
 }
 
 nav {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 nav ol {
